@@ -1,0 +1,16 @@
+.dart_tool/
+.packages
+.flutter-plugins-dependencies
+build/
+*.iml
+.idea/
+.vscode/
+*.db
+*.sqlite
+.env
+android/.gradle/
+android/local.properties
+windows/flutter/ephemeral/
+
+# wyjatek: czysta baza startowa wbudowana w aplikacje
+!assets/db/memonic_app_seed.db

@@ -1,0 +1,96 @@
+{
+ "app": {
+  "backup": "C:\\Users\\Lukasz\\Documents\\memonic_app.db.bak_northwards_20261009_125314",
+  "changes": [
+   {
+    "id": 1069,
+    "old": "The ship is located at: φ=05°17.8′S λ=136°14.8′E and moved 480 NM southwards. Its position will equal:",
+    "new": "The ship is located at: φ=05°17.8′S λ=136°14.8′E and moved 480 NM northwards. Its position will equal:",
+    "was_hidden": 1
+   },
+   {
+    "id": 1121,
+    "old": "The ship is located at: φ=05°17.8′S λ=136°14.8′E and moved 480 NM southwards. Its position will equal:",
+    "new": "The ship is located at: φ=05°17.8′S λ=136°14.8′E and moved 480 NM northwards. Its position will equal:",
+    "was_hidden": 1
+   },
+   {
+    "id": 1138,
+    "old": "The ship is located at: φ=05°17.8′S λ=136°14.8′E and moved 480 NM southwards. Its position will equal:",
+    "new": "The ship is located at: φ=05°17.8′S λ=136°14.8′E and moved 480 NM northwards. Its position will equal:",
+    "was_hidden": 1
+   },
+   {
+    "id": 1152,
+    "old": "The ship is located at: φ=05°17.8′S λ=136°14.8′E and moved 480 NM southwards. Its position will equal:",
+    "new": "The ship is located at: φ=05°17.8′S λ=136°14.8′E and moved 480 NM northwards. Its position will equal:",
+    "was_hidden": 1
+   },
+   {
+    "id": 1166,
+    "old": "The ship is located at: φ=05°17.8′S λ=136°14.8′E and moved 480 NM southwards. Its position will equal:",
+    "new": "The ship is located at: φ=05°17.8′S λ=136°14.8′E and moved 480 NM northwards. Its position will equal:",
+    "was_hidden": 1
+   },
+   {
+    "id": 1194,
+    "old": "The ship is located at: φ=05°17.8′S λ=136°14.8′E and moved 480 NM southwards. Its position will equal:",
+    "new": "The ship is located at: φ=05°17.8′S λ=136°14.8′E and moved 480 NM northwards. Its position will equal:",
+    "was_hidden": 1
+   },
+   {
+    "id": 1206,
+    "old": "The ship is located at: φ=05°17.8′S λ=136°14.8′E and moved 480 NM southwards. Its position will equal:",
+    "new": "The ship is located at: φ=05°17.8′S λ=136°14.8′E and moved 480 NM northwards. Its position will equal:",
+    "was_hidden": 1
+   }
+  ]
+ },
+ "seed": {
+  "backup": "data\\memonic_app_seed.db.bak_northwards_20261009_125314",
+  "changes": [
+   {
+    "id": 1069,
+    "old": "The ship is located at: φ=05°17.8′S λ=136°14.8′E and moved 480 NM southwards. Its position will equal:",
+    "new": "The ship is located at: φ=05°17.8′S λ=136°14.8′E and moved 480 NM northwards. Its position will equal:",
+    "was_hidden": 0
+   },
+   {
+    "id": 1121,
+    "old": "The ship is located at: φ=05°17.8′S λ=136°14.8′E and moved 480 NM southwards. Its position will equal:",
+    "new": "The ship is located at: φ=05°17.8′S λ=136°14.8′E and moved 480 NM northwards. Its position will equal:",
+    "was_hidden": 0
+   },
+   {
+    "id": 1138,
+    "old": "The ship is located at: φ=05°17.8′S λ=136°14.8′E and moved 480 NM southwards. Its position will equal:",
+    "new": "The ship is located at: φ=05°17.8′S λ=136°14.8′E and moved 480 NM northwards. Its position will equal:",
+    "was_hidden": 0
+   },
+   {
+    "id": 1152,
+    "old": "The ship is located at: φ=05°17.8′S λ=136°14.8′E and moved 480 NM southwards. Its position will equal:",
+    "new": "The ship is located at: φ=05°17.8′S λ=136°14.8′E and moved 480 NM northwards. Its position will equal:",
+    "was_hidden": 0
+   },
+   {
+    "id": 1166,
+    "old": "The ship is located at: φ=05°17.8′S λ=136°14.8′E and moved 480 NM southwards. Its position will equal:",
+    "new": "The ship is located at: φ=05°17.8′S λ=136°14.8′E and moved 480 NM northwards. Its position will equal:",
+    "was_hidden": 0
+   },
+   {
+    "id": 1194,
+    "old": "The ship is located at: φ=05°17.8′S λ=136°14.8′E and moved 480 NM southwards. Its position will equal:",
+    "new": "The ship is located at: φ=05°17.8′S λ=136°14.8′E and moved 480 NM northwards. Its position will equal:",
+    "was_hidden": 0
+   },
+   {
+    "id": 1206,
+    "old": "The ship is located at: φ=05°17.8′S λ=136°14.8′E and moved 480 NM southwards. Its position will equal:",
+    "new": "The ship is located at: φ=05°17.8′S λ=136°14.8′E and moved 480 NM northwards. Its position will equal:",
+    "was_hidden": 0
+   }
+  ]
+ }
+}

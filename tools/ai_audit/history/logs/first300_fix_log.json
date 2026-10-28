@@ -1,0 +1,203 @@
+{
+ "text": {
+  "2": {
+   "odp_a": "wartość bezwzględnaΦΑ>ФВ"
+  },
+  "42": {
+   "odp_a": "wartość bezwzględnaΦΑ>ФВ"
+  },
+  "47": {
+   "odp_a": "wartość bezwzględnaΦΑ>ФВ"
+  },
+  "54": {
+   "odp_a": "wartość bezwzględnaΦΑ>ФВ"
+  },
+  "57": {
+   "odp_a": "wartość bezwzględnaΦΑ>ФВ"
+  },
+  "63": {
+   "odp_a": "wartość bezwzględnaΦΑ>ФВ"
+  },
+  "72": {
+   "odp_a": "wartość bezwzględnaΦΑ>ФВ"
+  },
+  "92": {
+   "odp_a": "wartość bezwzględnaΦΑ>ФВ"
+  },
+  "100": {
+   "odp_a": "wartość bezwzględnaΦΑ>ФВ"
+  },
+  "103": {
+   "odp_a": "wartość bezwzględnaΦΑ>ФВ"
+  },
+  "11": {
+   "pytanie": "Statek znajduje się na pozycji: q=05°17,8′S λ=136°14,8′E i przemieścił się 480 Mm na północ. Jego pozycja będzie wynosiła:",
+   "odp_a": "φ=13°17,8′S λ=136°14,8΄Έ",
+   "odp_b": "φ=03°17,8′S λ=136°14,8΄Ε",
+   "odp_c": "φ=02°42,2΄Ν λ=136°14,8 Ε"
+  },
+  "40": {
+   "odp_a": "AIOC WR 8s",
+   "odp_b": "AIFI WG 8s"
+  },
+  "140": {
+   "odp_c": "releases the watch officer from the need to carry our observations"
+  },
+  "154": {
+   "odp_c": "releases the watch officer from the need to carry our observations"
+  },
+  "167": {
+   "odp_c": "releases the watch officer from the need to carry our observations"
+  },
+  "142": {
+   "odp_a": "sprawdzenia jakości pracy nadajnika, toru przesyłowego oraz odbiornika przy pomocy transpomdera umieszczone go w bloku antenowym",
+   "odp_c": "słuzy wyłącznie do pomiaru stopnia zużycia magnetronu"
+  },
+  "156": {
+   "odp_a": "sprawdzenia jakości pracy nadajnika, toru przesyłowego oraz odbiornika przy pomocy transpomdera umieszczone go w bloku antenowym",
+   "odp_c": "słuzy wyłącznie do pomiaru stopnia zużycia magnetronu"
+  },
+  "187": {
+   "pytanie": "Punkt obrotu statku, poruszającego się do przodu, znajduje się przybliżeniu:"
+  },
+  "195": {
+   "odp_b": "dziób statkujesz przyciągany do mielizny"
+  },
+  "197": {
+   "pytanie": "Podczas żeglugi kanałem zejście statku z osi kanału powoduje asymetrię opływu, która powoduję następujące zjawiska::",
+   "odp_b": "dziób statku jest opychany od jednego brzegu a rufa przyciągana do przeciwległego brzegu",
+   "odp_c": "rufa i dziób są przyciągane do tego samego brxegu"
+  },
+  "212": {
+   "odp_c": "zarówno systemu satelitarnego COSPAS – SARSAT, jak i sytemu INMARSAT"
+  },
+  "215": {
+   "pytanie": "Czy manewer powrotu na kontrkurs podczas akcji „człowiek za burtą\", nazywany pętlą Williamsona, różni się od pętli Scharnova:",
+   "odp_a": "jest zawsze wykonywany przez wyłożenie steru\na po zmianie kursu o 60° stopni - wyłożenie steru",
+   "odp_b": "w odróżnieniu od pętli Scharnowa, może być\nprzez statki o dużej zwrotności",
+   "odp_c": "jego wykonanie nie pozostawia za rufą statku\nodcinka nieprzeszukanego"
+  },
+  "217": {
+   "pytanie": "Podczas wodowania łodzi ratunkowych metodą, on load release hooks\" talie wyczepiane są:"
+  }
+ },
+ "deleted": [
+  {
+   "id": 116,
+   "pytanie": "Powyższy symbol oznacza:"
+  },
+  {
+   "id": 117,
+   "pytanie": "Rysunek przedstawia schemat frontu:"
+  },
+  {
+   "id": 118,
+   "pytanie": "Rysunek przedstawia zdjęcie:"
+  },
+  {
+   "id": 125,
+   "pytanie": "Na mapach lodowych powyższy symbol oznacza:"
+  },
+  {
+   "id": 227,
+   "pytanie": "Flaga oznacza:"
+  },
+  {
+   "id": 229,
+   "pytanie": "Flaga oznacza:"
+  },
+  {
+   "id": 230,
+   "pytanie": "Flag means"
+  },
+  {
+   "id": 231,
+   "pytanie": "The  means:"
+  },
+  {
+   "id": 232,
+   "pytanie": "The Flaga oznacza:"
+  },
+  {
+   "id": 235,
+   "pytanie": "Flaga oznacza:"
+  },
+  {
+   "id": 236,
+   "pytanie": "Flaga oznacza:"
+  },
+  {
+   "id": 237,
+   "pytanie": "Flag means"
+  },
+  {
+   "id": 238,
+   "pytanie": "Flaga oznacza:"
+  },
+  {
+   "id": 239,
+   "pytanie": "Flaga oznacza:"
+  },
+  {
+   "id": 240,
+   "pytanie": "Flaga oznacza:"
+  },
+  {
+   "id": 241,
+   "pytanie": "Flaga oznacza:"
+  },
+  {
+   "id": 242,
+   "pytanie": "Flaga oznacza:"
+  },
+  {
+   "id": 267,
+   "pytanie": "Pokazane poniżej światła pokazują statek:"
+  },
+  {
+   "id": 271,
+   "pytanie": "Pokazane poniżej światła pokazują statek:"
+  },
+  {
+   "id": 274,
+   "pytanie": "Statek pokazujący poniższe światła ma długość:"
+  },
+  {
+   "id": 275,
+   "pytanie": "Poniższe światła pokazują statek:"
+  },
+  {
+   "id": 297,
+   "pytanie": "Pokazane poniżej światła pokazują statek:"
+  },
+  {
+   "id": 298,
+   "pytanie": "Poniższe światła pokazują statek:"
+  }
+ ],
+ "figure_ids": [
+  116,
+  117,
+  118,
+  125,
+  227,
+  229,
+  230,
+  231,
+  232,
+  235,
+  236,
+  237,
+  238,
+  239,
+  240,
+  241,
+  242,
+  267,
+  271,
+  274,
+  275,
+  297,
+  298
+ ]
+}

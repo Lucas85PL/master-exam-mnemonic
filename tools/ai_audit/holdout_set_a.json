@@ -1,0 +1,497 @@
+[
+ {
+  "source_id": 484,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Prawo morskie",
+  "pytanie": "strefie pokoju nie może być krótszy niż:",
+  "opts": {
+   "A": "1 m-c od dnia nadejścia ostatniej wiadomości o statku",
+   "B": "3 m-ce od dnia nadejścia ostatniej wiadomości o statku",
+   "C": "6 m-cy od dnia nadejścia ostatniej wiadomości o statku"
+  },
+  "key": "A",
+  "label": {
+   "defect": "truncated_start",
+   "klasa": "integrity"
+  },
+  "cid": "C01"
+ },
+ {
+  "source_id": 2,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Nawigacja",
+  "pytanie": "Znak minus przypisany różnicy szerokości oznacza, że:",
+  "opts": {
+   "A": "wartość bezwzględnaΦΑ>ФВ",
+   "B": "równoleżnik pozycji docelowej leży na południe od równoleżnika pozycji wyjściowej",
+   "C": "wartość bezwzględnaΦΑ>ФВ"
+  },
+  "key": "B",
+  "label": {
+   "defect": "duplicate_options",
+   "klasa": "integrity"
+  },
+  "cid": "C02"
+ },
+ {
+  "source_id": 2540,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Bezpieczeństwo nawigacji",
+  "pytanie": "Statek przecinający system rozgraniczenia ruchu powinien w miarę możliwości:",
+  "opts": {
+   "A": "",
+   "B": "robić to kursem po wodzie maksymalnie zbliżonym do 90° w stosunku do ogólnego kierunku ruchu",
+   "C": ""
+  },
+  "key": "B",
+  "label": {
+   "defect": "only_one_option",
+   "klasa": "integrity"
+  },
+  "cid": "C03"
+ },
+ {
+  "source_id": 2922,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Bezpieczeństwo statku",
+  "pytanie": "jeśli uczestniczą w nim:",
+  "opts": {
+   "A": "co najmniej 5 osób",
+   "B": "co najmniej 2 osoby",
+   "C": "co najmniej 6 osób"
+  },
+  "key": "B",
+  "label": {
+   "defect": "truncated_start",
+   "klasa": "integrity"
+  },
+  "cid": "C04"
+ },
+ {
+  "source_id": 1015,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Prawo morskie",
+  "pytanie": "Przy ubezpieczeniu statku",
+  "opts": {
+   "A": "powstałe z winy umyślnej lub rażącego niedbalstwa ubezpieczającego",
+   "B": "spowodowane z winy kapitana, innego członka załogi lub pilota",
+   "C": "powstałe wskutek wyruszenia w podróż statku niezdatnego do żeglugi"
+  },
+  "key": "A",
+  "label": {
+   "defect": "truncated_end",
+   "klasa": "integrity"
+  },
+  "cid": "C05"
+ },
+ {
+  "source_id": 2252,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Nawigacja",
+  "pytanie": "Głębokość wody ~xjqxwzjxz na mapie jest rozumiana §ja¤",
+  "opts": {
+   "A": "pionowa odległość od płaszczyzny zera mapy do dna, plus wysokość pływu",
+   "B": "pionowa odległość od płaszczyzny zera mapy do dna",
+   "C": "średnia głębokość akwenu w danej pozycji, we wskazanym dla sondaży okresie czasu"
+  },
+  "key": "B",
+  "label": {
+   "defect": "garbled",
+   "klasa": "integrity"
+  },
+  "cid": "C06"
+ },
+ {
+  "source_id": 1511,
+  "kategoria": "Angielski",
+  "tematyka": "Przewozy morskie",
+  "pytanie": "During cargo operations, when it is necessary to protect the cargo from rain, the order to close the cargo hatch covers is issued by:",
+  "opts": {
+   "A": "the watch officer",
+   "B": "the foreman",
+   "C": "the master"
+  },
+  "key": "A",
+  "label": {
+   "defect": null
+  },
+  "cid": "C07"
+ },
+ {
+  "source_id": 222,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Ratownictwo morskie",
+  "pytanie": "Which search pattern is started from the reference position (Datum):",
+  "opts": {
+   "A": "expanding square search pattern",
+   "B": "creeping line search pattern",
+   "C": "parallel sweep search pattern"
+  },
+  "key": "C",
+  "label": {
+   "defect": "key_swapped",
+   "klasa": "key"
+  },
+  "cid": "C08"
+ },
+ {
+  "source_id": 634,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Ratownictwo morskie",
+  "pytanie": "W przypadku wodowania łodzi ratunkowej swobodnego spadku załoga powinna:",
+  "opts": {
+   "A": "mieć na sobie kaski oraz pasy ratunkowe",
+   "B": "zdjąć oraz i zabezpieczyć kaski i pasy ratunkowe (chyba, że jest to pneumatyczna kamizelka ratunkowa)",
+   "C": "pozostawać w kaskach, pasy zdjąć i zabezpieczyć w łodzi"
+  },
+  "key": "B",
+  "label": {
+   "defect": null
+  },
+  "cid": "C09"
+ },
+ {
+  "source_id": 1383,
+  "kategoria": "Angielski",
+  "tematyka": "Bezpieczeństwo nawigacji",
+  "pytanie": "The daily shape of a vessel not under command is:",
+  "opts": {
+   "A": "two spheres placed in a vertical line",
+   "B": "three spheres placed in a vertical line",
+   "C": "cylinder"
+  },
+  "key": "A",
+  "label": {
+   "defect": null
+  },
+  "cid": "C10"
+ },
+ {
+  "source_id": 2245,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Nawigacja",
+  "pytanie": "Jeżeli zmierzony między 2 obiektami kąt poziomy  jest mniejszy od 90, to aby wykreślić linię pozycyjną, pomocniczy kąt γ odkładamy od linii bazy:",
+  "opts": {
+   "A": "w kierunku do obserwatora",
+   "B": "nie ma znaczenia, w którym kierunku odłożymy",
+   "C": "w kierunku od obserwatora"
+  },
+  "key": "A",
+  "label": {
+   "defect": null
+  },
+  "cid": "C11"
+ },
+ {
+  "source_id": 112,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Meteorologia i oceanografia",
+  "pytanie": "Elementy uwzględniane przy prognozowaniu oblodzenia za pomocą nomogramu Martensa to:",
+  "opts": {
+   "A": "temperatura wody, temperatura powietrza, prędkość wiatru",
+   "B": "wielkość opadu deszczu, temperatura powietrza",
+   "C": "prędkość statku, prędkość wiatru, temperatura powietrza"
+  },
+  "key": "C",
+  "label": {
+   "defect": "key_swapped",
+   "klasa": "key"
+  },
+  "cid": "C12"
+ },
+ {
+  "source_id": 2650,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Bezpieczeństwo statku",
+  "pytanie": "Wachta morska według aktualnych przepisów Konwencji STCW powinna być prowadzona w składzie:",
+  "opts": {
+   "A": "może być tylko oficer wachtowy w dzień, a w nocy oficer + marynarz",
+   "B": "może być tylko oficer wachtowy, niezależnie od pory dnia lub nocy",
+   "C": "zawsze musi być oficer i marynarz, niezależnie od pory dnia lub nocy"
+  },
+  "key": "B",
+  "label": {
+   "defect": "key_swapped",
+   "klasa": "key"
+  },
+  "cid": "C13"
+ },
+ {
+  "source_id": 1358,
+  "kategoria": "Angielski",
+  "tematyka": "Bezpieczeństwo nawigacji",
+  "pytanie": "The derogation from the use of COLREG regulations is justified:",
+  "opts": {
+   "A": "in every situation",
+   "B": "only if compliance with regulations would have a worse effect",
+   "C": "when it does not directly result in a dangerous situation"
+  },
+  "key": "B",
+  "label": {
+   "defect": null
+  },
+  "cid": "C14"
+ },
+ {
+  "source_id": 2855,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Ratownictwo morskie",
+  "pytanie": "Umowę o ratownictwo w imieniu właściciela mienia znajdującego się na statku ma prawo podpisać:",
+  "opts": {
+   "A": "kapitan statku",
+   "B": "czarterujący",
+   "C": ""
+  },
+  "key": "C",
+  "label": {
+   "defect": "key_option_blank",
+   "klasa": "integrity"
+  },
+  "cid": "C15"
+ },
+ {
+  "source_id": 1292,
+  "kategoria": "Angielski",
+  "tematyka": "Manewrowanie statkiem",
+  "pytanie": "How to carry out a manoeuvre of passing a",
+  "opts": {
+   "A": "such a manoeuvre is dangerous and should not be carried out",
+   "B": "ships constantly move near their right side of the canal, correcting the impact of the channel wall without the need to take into account the interaction between ships",
+   "C": "the ships move in the centre of a channel until they have to leave its axis in order to carry out a manoeuvre, correct the initial push of noses when passing each other and the subsequent pull, speed reduction recommended in order to reduce the intensity of interactions"
+  },
+  "key": "C",
+  "label": {
+   "defect": "truncated_end",
+   "klasa": "integrity"
+  },
+  "cid": "C16"
+ },
+ {
+  "source_id": 835,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Budowa i stateczność statku",
+  "pytanie": "Czynności badające wytrzymałość ogólną statku wykonuje się:",
+  "opts": {
+   "A": "w czasie załadunku w porcie i po wyjściu w morze",
+   "B": "po załadunku w porcie i przed wyjściem w morze",
+   "C": "przed załadunkiem"
+  },
+  "key": "C",
+  "label": {
+   "defect": null
+  },
+  "cid": "C17"
+ },
+ {
+  "source_id": 1275,
+  "kategoria": "Angielski",
+  "tematyka": "Urządzenia nawigacyjne",
+  "pytanie": "Presence zz afterglow for echoes §of¤ solid objects observed in true motion display indicates:",
+  "opts": {
+   "A": "the presence of the phenomenon of intermediate echoes",
+   "B": "presence of ship drift",
+   "C": "that a RACON was mounted on the solid object"
+  },
+  "key": "B",
+  "label": {
+   "defect": "garbled",
+   "klasa": "integrity"
+  },
+  "cid": "C18"
+ },
+ {
+  "source_id": 2585,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Budowa i stateczność statku",
+  "pytanie": "Wielkość poprawki na swobodne powierzchnie cieczy zależy od poziomych wymiarów powierzchni zbiornika i od:",
+  "opts": {
+   "A": "objętości cieczy w zbiorniku",
+   "B": "wyporu statku",
+   "C": "położenia zbiornika na statku"
+  },
+  "key": "B",
+  "label": {
+   "defect": null
+  },
+  "cid": "C19"
+ },
+ {
+  "source_id": 2732,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Nawigacja",
+  "pytanie": "Informacje o systemach rozgraniczenia ruchu, trasach głębokowodnych, obszarach których należy unikać (area to be avoided), można znaleźć w publikacji:",
+  "opts": {
+   "A": "IMO Guidelines for Voyage Planning",
+   "B": "Ocean Passages for the World",
+   "C": ""
+  },
+  "key": "C",
+  "label": {
+   "defect": "key_option_blank",
+   "klasa": "integrity"
+  },
+  "cid": "C20"
+ },
+ {
+  "source_id": 1583,
+  "kategoria": "Angielski",
+  "tematyka": "Prawo morskie",
+  "pytanie": "charter agreement. It is used in the carriage of:",
+  "opts": {
+   "A": "general cargo",
+   "B": "bulk and semi-bulk cargo",
+   "C": "passengers"
+  },
+  "key": "B",
+  "label": {
+   "defect": "truncated_start",
+   "klasa": "integrity"
+  },
+  "cid": "C21"
+ },
+ {
+  "source_id": 2517,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Bezpieczeństwo nawigacji",
+  "pytanie": "Sygnał mgłowy statku żaglowego to nadawane gwizdkiem:",
+  "opts": {
+   "A": "dwa dźwięki długie",
+   "B": "jeden dźwięk długi, trzy krótkie",
+   "C": "jeden dźwięk długi, dwa krótkie"
+  },
+  "key": "C",
+  "label": {
+   "defect": null
+  },
+  "cid": "C22"
+ },
+ {
+  "source_id": 1096,
+  "kategoria": "Angielski",
+  "tematyka": "Nawigacja",
+  "pytanie": "Znak minus przypisany różnicy szerokości oznacza, że:",
+  "opts": {
+   "A": "height of the light source, visibility, light intensity (brightness)",
+   "B": "visibility, light intensity (brightness), earth curvature",
+   "C": "visibility, light intensity (brightness)"
+  },
+  "key": "C",
+  "label": {
+   "defect": "stem_mismatch",
+   "klasa": "key"
+  },
+  "cid": "C23"
+ },
+ {
+  "source_id": 957,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Bezpieczeństwo statku",
+  "pytanie": "Po stwierdzeniu poważnych zaniedbań związanych z bezpieczeństwem inspektor PSC:",
+  "opts": {
+   "A": "nie ma prawa wydawania decyzji o zatrzymaniu statku",
+   "B": "może zatrzymać statek do momentu usunięcia zaniedbań",
+   "C": "nie może zatrzymać statku, a jedynie podać termin usunięcia zaniedbań"
+  },
+  "key": "B",
+  "label": {
+   "defect": null
+  },
+  "cid": "C24"
+ },
+ {
+  "source_id": 844,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Budowa i stateczność statku",
+  "pytanie": "Plan znaków zanurzenia może być przydatny do:",
+  "opts": {
+   "A": "obliczenia niektórych poprawek wyporu przy wykonywaniu Draft Survey",
+   "B": "obliczenia zanurzenia statku na pionie dziobowym i rufowym za pomocą kalkulatora załadunku",
+   "C": "wyznaczenia wolnej burty"
+  },
+  "key": "A",
+  "label": {
+   "defect": null
+  },
+  "cid": "C25"
+ },
+ {
+  "source_id": 459,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Bezpieczeństwo statku",
+  "pytanie": "Podawanie liny cumowniczej bez rzutki jest dopuszczalne na odległość:",
+  "opts": {
+   "A": "4 metrów",
+   "B": "3 metrów",
+   "C": "2 metrów"
+  },
+  "key": "C",
+  "label": {
+   "defect": null
+  },
+  "cid": "C26"
+ },
+ {
+  "source_id": 2305,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Nawigacja",
+  "pytanie": "Osoba odpowiedzialna za opracowanie planu podróży jest:",
+  "opts": {
+   "A": "wyznaczony oficer",
+   "B": "armator lub odpowiednio do rodzaju żeglugi czarterujący na podróż",
+   "C": "kapitan statku"
+  },
+  "key": "A",
+  "label": {
+   "defect": null
+  },
+  "cid": "C27"
+ },
+ {
+  "source_id": 2524,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Bezpieczeństwo nawigacji",
+  "pytanie": "Nadawanie sygnałów mgłowych w ograniczonej widzialności jest:",
+  "opts": {
+   "A": "zawsze obowiązkowe",
+   "B": "obowiązkowe, gdy w pobliżu znajdują się inne statki",
+   "C": "obowiązkowe, gdy statek nie posiada sprawnego radaru"
+  },
+  "key": "A",
+  "label": {
+   "defect": null
+  },
+  "cid": "C28"
+ },
+ {
+  "source_id": 2739,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Nawigacja",
+  "pytanie": "System ECDIS dokonując wstępnej weryfikacji planowanej trasy analizuje:",
+  "opts": {
+   "A": "obszary o głębokościach większych od ustawionej wartości izobaty bezpieczeństwa",
+   "B": "tor ruchu statku wyznaczony limitem poprzecznego zejścia z trasy na poszczególnych odcinkach",
+   "C": "planowaną trasę jako zestaw odcinków między punktami zwrotów"
+  },
+  "key": "B",
+  "label": {
+   "defect": null
+  },
+  "cid": "C29"
+ },
+ {
+  "source_id": 145,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Urządzenia nawigacyjne",
+  "pytanie": "Zmiana nastawy współczynnika wzmocnienia (rudder) wpływa na:",
+  "opts": {
+   "A": "wartość kąta wychylenia steru oraz czas pozostawania płetwy sterowej w wychyleniu skrajnym",
+   "B": "wartość maksymalnego wychylenia płetwy sterowej",
+   "C": "zakres stałego, automatycznego wychylenia płetwy sterowej"
+  },
+  "key": "A",
+  "label": {
+   "defect": null
+  },
+  "cid": "C30"
+ }
+]

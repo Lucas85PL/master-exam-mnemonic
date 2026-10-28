@@ -1,0 +1,497 @@
+[
+ {
+  "source_id": 2204,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Nawigacja",
+  "pytanie": "Poprawki do Tablic pływów wydanych przez Admiralicję Brytyjską zawarte są w::",
+  "opts": {
+   "A": "Cumulative List of Admiralty Notices to Mariners",
+   "B": "Annual Summary of Admiralty Notices to Mariners",
+   "C": "Admiralty Notices to Mariners, Weekly Edition"
+  },
+  "key": "B",
+  "label": {
+   "defect": null
+  },
+  "cid": "C01"
+ },
+ {
+  "source_id": 2725,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Nawigacja",
+  "pytanie": "Oddziaływanie siły Coriolisa na masy powietrza wyklucza:",
+  "opts": {
+   "A": "δ ↑↑ φ i δ > 90 - φ",
+   "B": "δ ↑↑ φ i δ = φ",
+   "C": "δ ↑↑ φ i δ < 90 - φ"
+  },
+  "key": "B",
+  "label": {
+   "defect": "stem_mismatch",
+   "klasa": "key"
+  },
+  "cid": "C02"
+ },
+ {
+  "source_id": 478,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Prawo morskie",
+  "pytanie": "The confirmation of the nationality of a vessel is the:",
+  "opts": {
+   "A": "",
+   "B": "",
+   "C": "Certificate of registry"
+  },
+  "key": "C",
+  "label": {
+   "defect": "only_one_option",
+   "klasa": "integrity"
+  },
+  "cid": "C03"
+ },
+ {
+  "source_id": 2143,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Język angielski",
+  "pytanie": "The ice-breaker assistance for convoy (skończy się) when (będzie) open water ahead.",
+  "opts": {
+   "A": "will finish/there is",
+   "B": "will finish/there will be",
+   "C": "finishes/ there is"
+  },
+  "key": "A",
+  "label": {
+   "defect": null
+  },
+  "cid": "C04"
+ },
+ {
+  "source_id": 2149,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Język angielski",
+  "pytanie": "The chief officer (próbuje uzyskać) any information from survivors for a quarter of an hour.",
+  "opts": {
+   "A": "is trying to obtain",
+   "B": "has been trying to obtain",
+   "C": "tries to obtain"
+  },
+  "key": "C",
+  "label": {
+   "defect": "key_swapped",
+   "klasa": "key"
+  },
+  "cid": "C05"
+ },
+ {
+  "source_id": 658,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Bezpieczeństwo nawigacji",
+  "pytanie": "W przypadku awarii silnika głównego powodującej całkowite jego unieruchomienie, kapitan statku powinien",
+  "opts": {
+   "A": "o napędzie mechanicznym w dryfie",
+   "B": "o ograniczonej zdolności manewrowej",
+   "C": "nieodpowiadającego za swoje ruchy"
+  },
+  "key": "C",
+  "label": {
+   "defect": "truncated_end",
+   "klasa": "integrity"
+  },
+  "cid": "C06"
+ },
+ {
+  "source_id": 1098,
+  "kategoria": "Angielski",
+  "tematyka": "Nawigacja",
+  "pytanie": "Which of the characteristics below definitely means the sector light?",
+  "opts": {
+   "A": "Fl (2+1) RW 14 s",
+   "B": "Al. Oc (R W G) 16s",
+   "C": "IVQ Y 12s"
+  },
+  "key": "A",
+  "label": {
+   "defect": null
+  },
+  "cid": "C07"
+ },
+ {
+  "source_id": 2158,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Język angielski",
+  "pytanie": "All regulations concerning vessel’s routine (muszą być przestrzegane).",
+  "opts": {
+   "A": "must obey",
+   "B": "must obeyed",
+   "C": ""
+  },
+  "key": "C",
+  "label": {
+   "defect": "key_option_blank",
+   "klasa": "integrity"
+  },
+  "cid": "C08"
+ },
+ {
+  "source_id": 1361,
+  "kategoria": "Angielski",
+  "tematyka": "Bezpieczeństwo nawigacji",
+  "pytanie": "manoeuvre\" term means a ship:",
+  "opts": {
+   "A": "which due to the nature of the work performed can not give way",
+   "B": "which due to exceptional circumstances is unable to maneuver according to the requirements of rules and therefore can not give way",
+   "C": "which is in drift, has turned machines and steering devices off and therefore can not give way"
+  },
+  "key": "A",
+  "label": {
+   "defect": "truncated_start",
+   "klasa": "integrity"
+  },
+  "cid": "C09"
+ },
+ {
+  "source_id": 2202,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Nawigacja",
+  "pytanie": "Znak systemu IALA o charakterystyce świecenia Mo(A)W to:",
+  "opts": {
+   "A": "Isolated dangermark",
+   "B": "Port handmark",
+   "C": "Safe water mark"
+  },
+  "key": "C",
+  "label": {
+   "defect": null
+  },
+  "cid": "C10"
+ },
+ {
+  "source_id": 2771,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Meteorologia i oceanografia",
+  "pytanie": "Jakie wspólne cechy posiada powietrze polarno-morskie PPm i powietrze zwrotnikowo-morskie PZm:",
+  "opts": {
+   "A": "temperatura, miejsce występowania",
+   "B": "temperatura, wielkość opadu",
+   "C": "żadne z powyższych"
+  },
+  "key": "C",
+  "label": {
+   "defect": null
+  },
+  "cid": "C11"
+ },
+ {
+  "source_id": 2374,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Urządzenia nawigacyjne",
+  "pytanie": "Zobrazowanie ruchu, w którym echa po ekranie poruszają się odpowiednio do parametrów ruchu danych obiektów to:",
+  "opts": {
+   "A": "RM – relative motion",
+   "B": "CD – constant display",
+   "C": "TM – true motion"
+  },
+  "key": "C",
+  "label": {
+   "defect": null
+  },
+  "cid": "C12"
+ },
+ {
+  "source_id": 2429,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Ratownictwo morskie",
+  "pytanie": "Który z wymienionych poniżej środków ochrony stanowi obowiązkowe wyposażenie łodzi ratunkowej na statku towarowym:",
+  "opts": {
+   "A": "immersion suit",
+   "B": "anit-exposure suit",
+   "C": "thermal protective aid"
+  },
+  "key": "C",
+  "label": {
+   "defect": null
+  },
+  "cid": "C13"
+ },
+ {
+  "source_id": 1300,
+  "kategoria": "Angielski",
+  "tematyka": "Manewrowanie statkiem",
+  "pytanie": "Impact of the bank in a channel can be seen in:",
+  "opts": {
+   "A": "the fact that the ship turns towards the axis of the fairway",
+   "B": "the fact that the ship is pushed from the nearest bank",
+   "C": "the fact that the ship nose is dragged to the nearest bank"
+  },
+  "key": "A",
+  "label": {
+   "defect": null
+  },
+  "cid": "C14"
+ },
+ {
+  "source_id": 608,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Manewrowanie statkiem",
+  "pytanie": "Przy większej prędkości postępowej statku i zachowaniu jednakowych obrotów śruby, obra- canie śruby jest:",
+  "opts": {
+   "A": "łatwiejsze, zmniejsza się moment obrotowy śruby (opór stawiany przez wodę pod- czas obracania), lecz jednocześnie spada napór śruby",
+   "B": "trudniejsze, rośnie moment i napór śruby",
+   "C": "łatwiejsze, lecz spadkowi momentu towarzyszy wzrost naporu śruby"
+  },
+  "key": "A",
+  "label": {
+   "defect": null
+  },
+  "cid": "C15"
+ },
+ {
+  "source_id": 2820,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Urządzenia nawigacyjne",
+  "pytanie": "paralaksy. Osiąga on największe wartości dla kątów kursowych występujących:",
+  "opts": {
+   "A": "na trawersach statku własnego",
+   "B": "przed dziobem i za rufą statku śledzonego",
+   "C": "przed dziobem i za rufą statku własnego"
+  },
+  "key": "C",
+  "label": {
+   "defect": "truncated_start",
+   "klasa": "integrity"
+  },
+  "cid": "C16"
+ },
+ {
+  "source_id": 486,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Prawo morskie",
+  "pytanie": "Osoba uratowana nie jest zobowiązana do zapłaty za jej uratowanie. Wynagrodzenie za uratowanie osoby wypłaca:",
+  "opts": {
+   "A": "armator statku towarowego lub pasażerskiego",
+   "B": "ubezpieczyciel armatora lub czarterującego",
+   "C": "nikt nie jest zobowiązany do zapłaty za ratowanie życia"
+  },
+  "key": "C",
+  "label": {
+   "defect": null
+  },
+  "cid": "C17"
+ },
+ {
+  "source_id": 2373,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Urządzenia nawigacyjne",
+  "pytanie": "Zgodnie z wymaganiami techniczno-eksploatacyjnymi zawartymi w rezolucji IMO wymagane w urządzeniach radarowych zakresy to:",
+  "opts": {
+   "A": "wielokrotności 3 Mm",
+   "B": "np.: 2 Mm, 6 Mm, 12 Mm",
+   "C": "np.: 1.5 Mm, 3 Mm, 12 Mm"
+  },
+  "key": "C",
+  "label": {
+   "defect": null
+  },
+  "cid": "C18"
+ },
+ {
+  "source_id": 1080,
+  "kategoria": "Angielski",
+  "tematyka": "Nawigacja",
+  "pytanie": "Value of log correction index 1.07 indicates that:",
+  "opts": {
+   "A": "the log indication is too low and its percentage correction equals + 7%",
+   "B": "the log indication is too high and its percentage correction equals + 7",
+   "C": "the log indication is too high and its percentage correction equals 7%"
+  },
+  "key": "A",
+  "label": {
+   "defect": null
+  },
+  "cid": "C19"
+ },
+ {
+  "source_id": 2478,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Łączność morska",
+  "pytanie": "została przypadkowo uruchomiona należy:",
+  "opts": {
+   "A": "tylko wyłączyć radiopławę",
+   "B": "wyłączyć radiopławę i powiadomić najbliższe centrum ratownictwa o zaistniałej sytuacji",
+   "C": "powiadomić najbliższe centrum ratownictwa o zaistniałej sytuacji, a następnie wyłączyć radiopławę"
+  },
+  "key": "B",
+  "label": {
+   "defect": "truncated_start",
+   "klasa": "integrity"
+  },
+  "cid": "C20"
+ },
+ {
+  "source_id": 443,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Zarządzanie statkiem",
+  "pytanie": "Koszty uzyskania certyfikatów w ramach inspekcji §#w¤ bandery ponosi:",
+  "opts": {
+   "A": "czarterujący",
+   "B": "pozyskanie dokumentów i certyfikatów jest bezpłatne",
+   "C": "armator"
+  },
+  "key": "C",
+  "label": {
+   "defect": "garbled",
+   "klasa": "integrity"
+  },
+  "cid": "C21"
+ },
+ {
+  "source_id": 2730,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Nawigacja",
+  "pytanie": "Z mapy gnomonicznej dla ortodromy nie można odczytać:",
+  "opts": {
+   "A": "początkowego kąta drogi",
+   "B": "odległości po ortodromie",
+   "C": "współrzędnych punktów zwrotu"
+  },
+  "key": "A",
+  "label": {
+   "defect": null
+  },
+  "cid": "C22"
+ },
+ {
+  "source_id": 1448,
+  "kategoria": "Angielski",
+  "tematyka": "Budowa i stateczność statku",
+  "pytanie": "Shearing forces and bending moments are controlled:",
+  "opts": {
+   "A": "on transverse sections",
+   "B": "on construction frames",
+   "C": "only in the midship section."
+  },
+  "key": "C",
+  "label": {
+   "defect": "key_swapped",
+   "klasa": "key"
+  },
+  "cid": "C23"
+ },
+ {
+  "source_id": 2908,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Zarządzanie statkiem",
+  "pytanie": "Zasady prowadzenia inspekcji statków morskich",
+  "opts": {
+   "A": "Konwencja SOLAS 74",
+   "B": "Ustawa o bezpieczeństwie morskim z 18.08.2011 r.",
+   "C": "zestaw dyrektyw Unii Europejskiej"
+  },
+  "key": "B",
+  "label": {
+   "defect": "truncated_end",
+   "klasa": "integrity"
+  },
+  "cid": "C24"
+ },
+ {
+  "source_id": 1358,
+  "kategoria": "Angielski",
+  "tematyka": "Bezpieczeństwo nawigacji",
+  "pytanie": "The derogation from the use of COLREG regulations is justified:",
+  "opts": {
+   "A": "in every situation",
+   "B": "",
+   "C": "when it does not directly result in a dangerous situation"
+  },
+  "key": "B",
+  "label": {
+   "defect": "key_option_blank",
+   "klasa": "integrity"
+  },
+  "cid": "C25"
+ },
+ {
+  "source_id": 2666,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Prawo morskie",
+  "pytanie": "Rejestr okrętowy statków morskich w Polsce jest prowadzony przez:",
+  "opts": {
+   "A": "Izby Morskie",
+   "B": "towarzystwa klasyfikacyjne",
+   "C": "ministerstwo właściwe ds gospodarki morskiej"
+  },
+  "key": "A",
+  "label": {
+   "defect": null
+  },
+  "cid": "C26"
+ },
+ {
+  "source_id": 1301,
+  "kategoria": "Angielski",
+  "tematyka": "Manewrowanie statkiem",
+  "pytanie": "Compared to the manoeuvre of overtaking, passing ships in a channel at the same distances between ships and similar speed level is:",
+  "opts": {
+   "A": "safer",
+   "B": "equally dangerous",
+   "C": "more dangerous"
+  },
+  "key": "A",
+  "label": {
+   "defect": null
+  },
+  "cid": "C27"
+ },
+ {
+  "source_id": 812,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Przewozy morskie",
+  "pytanie": "Lista kontrolna Ship – Shore Safety check list :",
+  "opts": {
+   "A": "nie jest obowiązkowa na zbiornikowcach",
+   "B": "musi być zakończona przed rozpoczęciem operacji za/wyładunkowych na zbiornikowcach",
+   "C": "musi być zakończona po zakończeniu operacji za/wyładunkowych na zbiornikowcach"
+  },
+  "key": "C",
+  "label": {
+   "defect": "key_swapped",
+   "klasa": "key"
+  },
+  "cid": "C28"
+ },
+ {
+  "source_id": 2554,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Bezpieczeństwo nawigacji",
+  "pytanie": "Gdy widzące się §wz¤ statki: zajęty połowem i o ograniczonej zdolności manewrowej spotykają się na kursach przecinających tak, że powstaje ~wxw#q zderzenia, ustąpić z drogi powinien:",
+  "opts": {
+   "A": "statek, który ma drugi statek z prawej burty",
+   "B": "statek o ograniczonej zdolności manewrowej",
+   "C": "statek zajęty połowem"
+  },
+  "key": "C",
+  "label": {
+   "defect": "garbled",
+   "klasa": "integrity"
+  },
+  "cid": "C29"
+ },
+ {
+  "source_id": 2685,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Ochrona środowiska morskiego",
+  "pytanie": "Odolejacze stosowane do oczyszczania wód zenzowych powinny mieć skuteczność co najmniej:",
+  "opts": {
+   "A": "4 ppm",
+   "B": "4 ppm",
+   "C": "15 ppm"
+  },
+  "key": "C",
+  "label": {
+   "defect": "duplicate_options",
+   "klasa": "integrity"
+  },
+  "cid": "C30"
+ }
+]

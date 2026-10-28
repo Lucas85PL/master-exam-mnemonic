@@ -1,0 +1,50 @@
+{
+ "app": {
+  "backup": "C:\\Users\\Lukasz\\Documents\\memonic_app.db.bak_figaudit_20261006_133328",
+  "marked": 119,
+  "text_fixes": [
+   {
+    "id": 2971,
+    "col": "odp_c",
+    "old": "trzymajcie się za dala ode mnie, jestem zajęty trałowaniem we dwójkę",
+    "new": "trzymajcie się z dala ode mnie, jestem zajęty trałowaniem we dwójkę"
+   },
+   {
+    "id": 2977,
+    "col": "odp_a",
+    "old": "Keep clear of me; I am maneouvering with difficulty",
+    "new": "Keep clear of me; I am manoeuvring with difficulty"
+   },
+   {
+    "id": 3054,
+    "col": "odp_b",
+    "old": "lockable starking cone",
+    "new": "lockable stacking cone"
+   }
+  ]
+ },
+ "seed": {
+  "backup": "C:\\Users\\Lukasz\\Desktop\\Dev\\Master Exam Mnemonic 2.0\\data\\memonic_app_seed.db.bak_figaudit_20261006_133328",
+  "marked": 119,
+  "text_fixes": [
+   {
+    "id": 2971,
+    "col": "odp_c",
+    "old": "trzymajcie się za dala ode mnie, jestem zajęty trałowaniem we dwójkę",
+    "new": "trzymajcie się z dala ode mnie, jestem zajęty trałowaniem we dwójkę"
+   },
+   {
+    "id": 2977,
+    "col": "odp_a",
+    "old": "Keep clear of me; I am maneouvering with difficulty",
+    "new": "Keep clear of me; I am manoeuvring with difficulty"
+   },
+   {
+    "id": 3054,
+    "col": "odp_b",
+    "old": "lockable starking cone",
+    "new": "lockable stacking cone"
+   }
+  ]
+ }
+}

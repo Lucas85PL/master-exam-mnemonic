@@ -1,0 +1,497 @@
+[
+ {
+  "source_id": 2745,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Nawigacja",
+  "pytanie": "na wodach ograniczonych pozwala:",
+  "opts": {
+   "A": "utrzymać wymaganą minimalną odległość od niebezpieczeństw nawigacyjnych",
+   "B": "wyznaczyć kolejny kurs po zwrocie",
+   "C": "oznaczyć miejsce wyłożenia steru przy zwrocie w kolejnym punkcie trasy (WP)"
+  },
+  "key": "A",
+  "label": {
+   "defect": "truncated_start",
+   "klasa": "integrity"
+  },
+  "cid": "C01"
+ },
+ {
+  "source_id": 110,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Meteorologia i oceanografia",
+  "pytanie": "Zjawisko powstawania mgły, gdy ciepłe powietrze napływa nad zimniejszą warstwę wody nazywamy:",
+  "opts": {
+   "A": "parowaniem morza",
+   "B": "mgłą radiacyjną",
+   "C": "mgłą adwekcyjną"
+  },
+  "key": "C",
+  "label": {
+   "defect": null
+  },
+  "cid": "C02"
+ },
+ {
+  "source_id": 2361,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Urządzenia nawigacyjne",
+  "pytanie": "Autopilot adaptacyjny jest urządzeniem zbudowanym w oparciu o:",
+  "opts": {
+   "A": "Układ analogowy o zwiększonej ilości nastaw dostępnych nawigatorowi",
+   "B": "System stanowiący połączenie autopilota z odbiornikiem GPS",
+   "C": "System cyfrowy wykorzystujący matematyczny model statku tzw.”virtual ship”."
+  },
+  "key": "B",
+  "label": {
+   "defect": null
+  },
+  "cid": "C03"
+ },
+ {
+  "source_id": 843,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Budowa i stateczność statku",
+  "pytanie": "Wymiary i zasady nanoszenia na burtę statku znaku wolnej burty określone są:",
+  "opts": {
+   "A": "przepisami instytucji klasyfikacyjnej",
+   "B": "",
+   "C": "przepisami administracji państwa bandery"
+  },
+  "key": "B",
+  "label": {
+   "defect": "key_option_blank",
+   "klasa": "integrity"
+  },
+  "cid": "C04"
+ },
+ {
+  "source_id": 2823,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Manewrowanie statkiem",
+  "pytanie": "Mniejsze średnice cyrkulacji są powiązane najczęściej z:",
+  "opts": {
+   "A": "większymi kątami dryfu oraz znacznym spadkiem prędkości postępowej",
+   "B": "małymi kątami dryfu",
+   "C": "małym spadkiem prędkości postępowej"
+  },
+  "key": "C",
+  "label": {
+   "defect": "key_swapped",
+   "klasa": "key"
+  },
+  "cid": "C05"
+ },
+ {
+  "source_id": 2738,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Nawigacja",
+  "pytanie": "Wstępna kontrola planu podróży przez system ECDIS nie uwzględnia:",
+  "opts": {
+   "A": "zmiany dostępnej głębokości powodowanej pływami",
+   "B": "obszarów specjalnych",
+   "C": "przecięcia izobaty bezpieczeństwa"
+  },
+  "key": "A",
+  "label": {
+   "defect": null
+  },
+  "cid": "C06"
+ },
+ {
+  "source_id": 2728,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Nawigacja",
+  "pytanie": "Największy §zy¤ w żegludze po ortodromie osiąga się, xzxz",
+  "opts": {
+   "A": "punkt wyjścia i docelowy leżą na zbliżonej szerokości geograficznej",
+   "B": "punkt wyjścia i docelowy leżą na jednym kole wielkim",
+   "C": "punkt wyjścia i docelowy leżą na zbliżonej, dużej szerokości geograficznej"
+  },
+  "key": "C",
+  "label": {
+   "defect": "garbled",
+   "klasa": "integrity"
+  },
+  "cid": "C07"
+ },
+ {
+  "source_id": 1444,
+  "kategoria": "Angielski",
+  "tematyka": "Budowa i stateczność statku",
+  "pytanie": "Look at the drawing. Which of the sentences is false:",
+  "opts": {
+   "A": "ship draft equals 39460 t",
+   "B": "the drawing shows main dimensions of a ship",
+   "C": "moulded depth equals 17.6 m"
+  },
+  "key": "A",
+  "label": {
+   "defect": null
+  },
+  "cid": "C08"
+ },
+ {
+  "source_id": 2405,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Manewrowanie statkiem",
+  "pytanie": "W równoważeniu §ef¤ brzegowego istotny ~~jxww bierze:",
+  "opts": {
+   "A": "wyłącznie ster rufowy, z ewentualną pracą napędem",
+   "B": "ster rufowy i kąt dryfu kadłuba",
+   "C": "praca napędu wstecz i boczne działanie śruby"
+  },
+  "key": "B",
+  "label": {
+   "defect": "garbled",
+   "klasa": "integrity"
+  },
+  "cid": "C09"
+ },
+ {
+  "source_id": 2195,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Nawigacja",
+  "pytanie": "Jeżeli na mapie podana jest informacja \"See Note” oznacza to, że:",
+  "opts": {
+   "A": "treść uwagi znajduje się na marginesie dolnym mapy",
+   "B": "treść uwagi znajduje się w legendzie mapy",
+   "C": "treść uwagi znajduje się na marginesie dolnym mapy"
+  },
+  "key": "B",
+  "label": {
+   "defect": "duplicate_options",
+   "klasa": "integrity"
+  },
+  "cid": "C10"
+ },
+ {
+  "source_id": 2852,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Manewrowanie statkiem",
+  "pytanie": "Celem bezpiecznego opuszczenia i wyhaczenia łodzi ratowniczej na silnie sfalowanym mo- rzu najlepszym sposobem jest :",
+  "opts": {
+   "A": "utrzymać minimalną prędkość i utworzyć dla łodzi stronę zawietrzną",
+   "B": "wykonać pełną cyrkulację w kierunku burty, z której będzie opuszczana łódź oraz zredukować prędkość lub zatrzymać statek",
+   "C": "zatrzymać statek i ustawić się bokiem do fali"
+  },
+  "key": "A",
+  "label": {
+   "defect": "key_swapped",
+   "klasa": "key"
+  },
+  "cid": "C11"
+ },
+ {
+  "source_id": 2199,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Nawigacja",
+  "pytanie": "System oznakowania morskiego IALA- podział na regiony A i B dotyczy znaków:",
+  "opts": {
+   "A": "wszystkich z systemu IALA",
+   "B": "Lateral marks",
+   "C": "Cardinal marks"
+  },
+  "key": "B",
+  "label": {
+   "defect": null
+  },
+  "cid": "C12"
+ },
+ {
+  "source_id": 2932,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Bezpieczeństwo statku",
+  "pytanie": "W system wspomagania decyzji kapitana statku powinny być wyposażone:",
+  "opts": {
+   "A": "statki towarowe",
+   "B": "nie ma takiego wymagania",
+   "C": ""
+  },
+  "key": "C",
+  "label": {
+   "defect": "key_option_blank",
+   "klasa": "integrity"
+  },
+  "cid": "C13"
+ },
+ {
+  "source_id": 2913,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Zarządzanie statkiem",
+  "pytanie": "Narzędziem przymusu, jakim dysponuje PSC w stosunku do statków i armatorów nie jest:",
+  "opts": {
+   "A": "kara pieniężna za rażące zaniedbanie przestrzegania przepisów o ochronie środowiska",
+   "B": "zatrzymanie statku do momentu usunięcia niezgodności z wymogami konwencyjnymi",
+   "C": "odmowa wejścia do portów państw porozumienia -Refusal of Access"
+  },
+  "key": "A",
+  "label": {
+   "defect": null
+  },
+  "cid": "C14"
+ },
+ {
+  "source_id": 1358,
+  "kategoria": "Angielski",
+  "tematyka": "Bezpieczeństwo nawigacji",
+  "pytanie": "The derogation from the use of COLREG regulations is justified:",
+  "opts": {
+   "A": "in every situation",
+   "B": "only if compliance with regulations would have a worse effect",
+   "C": "when it does not directly result in a dangerous situation"
+  },
+  "key": "B",
+  "label": {
+   "defect": null
+  },
+  "cid": "C15"
+ },
+ {
+  "source_id": 375,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Budowa i stateczność statku",
+  "pytanie": "Która z wielkości nie jest kryterium stateczności:",
+  "opts": {
+   "A": "kąt przechyłu spowodowany cyrkulacją",
+   "B": "kąt wywracania",
+   "C": "kąt przechyłu, przy którym wartość ramion prostujących jest największa"
+  },
+  "key": "B",
+  "label": {
+   "defect": null
+  },
+  "cid": "C16"
+ },
+ {
+  "source_id": 474,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Bezpieczeństwo statku",
+  "pytanie": "W przypadku, gdy po kolizji statków nie następuje ich fizyczne rozejście:",
+  "opts": {
+   "A": "można manewrować silnikiem głównym wstecz",
+   "B": "manewrowanie silnikiem wstecz jest zabronione",
+   "C": "manewrowanie silnikiem wstecz jest możliwe po poinformowaniu statku przeciwnego"
+  },
+  "key": "B",
+  "label": {
+   "defect": null
+  },
+  "cid": "C17"
+ },
+ {
+  "source_id": 1393,
+  "kategoria": "Angielski",
+  "tematyka": "Bezpieczeństwo nawigacji",
+  "pytanie": "A vessel or pushed object, not forming a",
+  "opts": {
+   "A": "sidelights",
+   "B": "stern light",
+   "C": "sidelights and the stern light"
+  },
+  "key": "A",
+  "label": {
+   "defect": "truncated_end",
+   "klasa": "integrity"
+  },
+  "cid": "C18"
+ },
+ {
+  "source_id": 1299,
+  "kategoria": "Angielski",
+  "tematyka": "Manewrowanie statkiem",
+  "pytanie": "Advance in turning circle in shallow water conditions, compared to deep water is:",
+  "opts": {
+   "A": "much greater, proportional to the determined diameter of turning circle",
+   "B": "much lower due to increase in resistance",
+   "C": "remains largely the same."
+  },
+  "key": "B",
+  "label": {
+   "defect": "key_swapped",
+   "klasa": "key"
+  },
+  "cid": "C19"
+ },
+ {
+  "source_id": 487,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Prawo morskie",
+  "pytanie": "Kapitan na statku to osoba szczególna,",
+  "opts": {
+   "A": "Konwencja COLREG",
+   "B": "Konwencja STCW",
+   "C": "Konwencja SOLAS"
+  },
+  "key": "B",
+  "label": {
+   "defect": "truncated_end",
+   "klasa": "integrity"
+  },
+  "cid": "C20"
+ },
+ {
+  "source_id": 1006,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Prawo morskie",
+  "pytanie": "W razie uszkodzenia ciała lub rozstroju zdrowia pasażer obowiązany jest , o ile to możliwe, bezzwłocznie zawiadomić przewoźnika o wypadku, który je spowodował. Pasażer obowiązany jest zgłosić swe roszczenie wobec przewoźnika na piśmie najpóźniej w ciągu :",
+  "opts": {
+   "A": "15 dni od zejścia ze statku",
+   "B": "30 dni od zaistnienia wypadku",
+   "C": "45 dni od rozpoczęcia podróży"
+  },
+  "key": "A",
+  "label": {
+   "defect": null
+  },
+  "cid": "C21"
+ },
+ {
+  "source_id": 634,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Ratownictwo morskie",
+  "pytanie": "W przypadku wodowania łodzi ratunkowej swobodnego spadku załoga powinna:",
+  "opts": {
+   "A": "mieć na sobie kaski oraz pasy ratunkowe",
+   "B": "zdjąć oraz i zabezpieczyć kaski i pasy ratunkowe (chyba, że jest to pneumatyczna kamizelka ratunkowa)",
+   "C": "pozostawać w kaskach, pasy zdjąć i zabezpieczyć w łodzi"
+  },
+  "key": "B",
+  "label": {
+   "defect": null
+  },
+  "cid": "C22"
+ },
+ {
+  "source_id": 457,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Bezpieczeństwo statku",
+  "pytanie": "enclosed spaces jest to:",
+  "opts": {
+   "A": "zestaw pytań dotyczący prawidłowości załadunku",
+   "B": "zestaw pytań dotyczący prawidłowości wyładunku",
+   "C": "procedura kontrolna sprawdzająca prawidłowość postępowania przed wejściem do przestrzeni zamkniętych"
+  },
+  "key": "C",
+  "label": {
+   "defect": "truncated_start",
+   "klasa": "integrity"
+  },
+  "cid": "C23"
+ },
+ {
+  "source_id": 1087,
+  "kategoria": "Angielski",
+  "tematyka": "Nawigacja",
+  "pytanie": "A line connecting points with zero declination is:",
+  "opts": {
+   "A": "",
+   "B": "an agonic line",
+   "C": ""
+  },
+  "key": "B",
+  "label": {
+   "defect": "only_one_option",
+   "klasa": "integrity"
+  },
+  "cid": "C24"
+ },
+ {
+  "source_id": 1024,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Prawo morskie",
+  "pytanie": "Do zakresu zwykłych czynności wykonywanych przez agenta morskiego nie należy:",
+  "opts": {
+   "A": "zapłata należności związanych z zawinięciem statku do portu",
+   "B": "wystawianie konosamentów",
+   "C": "pośredniczenie w zawieraniu umów sprzedaży statków"
+  },
+  "key": "C",
+  "label": {
+   "defect": null
+  },
+  "cid": "C25"
+ },
+ {
+  "source_id": 519,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Ochrona środowiska morskiego",
+  "pytanie": "Resztki ładunków niebezpiecznych kategorii X przewożonych luzem:",
+  "opts": {
+   "A": "mogą być zrzucane do morza, ale w odległości co najmniej 12 Mm od brzegu",
+   "B": "nie mogą być zrzucane do morza",
+   "C": "mogą być zrzucane do morza, ale ich stężenie nie może przekraczać 15 ppm"
+  },
+  "key": "B",
+  "label": {
+   "defect": null
+  },
+  "cid": "C26"
+ },
+ {
+  "source_id": 376,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Budowa i stateczność statku",
+  "pytanie": "Znak minus przypisany różnicy szerokości oznacza, że:",
+  "opts": {
+   "A": "krzywą ramion prostujących",
+   "B": "wykres dopuszczalnego wzniesienia środka ciężkości",
+   "C": "krzywe hydrostatyczne"
+  },
+  "key": "B",
+  "label": {
+   "defect": "stem_mismatch",
+   "klasa": "key"
+  },
+  "cid": "C27"
+ },
+ {
+  "source_id": 1275,
+  "kategoria": "Angielski",
+  "tematyka": "Urządzenia nawigacyjne",
+  "pytanie": "observed in true motion display indicates:",
+  "opts": {
+   "A": "the presence of the phenomenon of intermediate echoes",
+   "B": "presence of ship drift",
+   "C": "that a RACON was mounted on the solid object"
+  },
+  "key": "B",
+  "label": {
+   "defect": "truncated_start",
+   "klasa": "integrity"
+  },
+  "cid": "C28"
+ },
+ {
+  "source_id": 2753,
+  "kategoria": "Dział pokładowy",
+  "tematyka": "Nawigacja",
+  "pytanie": "Prawidłowa realizacja ujętych w rezolucji wytycznych dotyczących planowania i monitorowania trasy podlega inspekcjom:",
+  "opts": {
+   "A": "tylko państwa portu",
+   "B": "tylko państwa bandery",
+   "C": "państwa portu i państwa bandery"
+  },
+  "key": "C",
+  "label": {
+   "defect": null
+  },
+  "cid": "C29"
+ },
+ {
+  "source_id": 1539,
+  "kategoria": "Angielski",
+  "tematyka": "Zarządzanie statkiem",
+  "pytanie": "Putting a vessel “off hire” in time charter results in:",
+  "opts": {
+   "A": "suspending the time of paying chartering fee by the charterer",
+   "B": "commencement of the all purposes time",
+   "C": "the need to renegotiate the charter agreement"
+  },
+  "key": "A",
+  "label": {
+   "defect": null
+  },
+  "cid": "C30"
+ }
+]

@@ -1,0 +1,838 @@
+{
+ "app": {
+  "backup": "C:\\Users\\Lukasz\\Documents\\memonic_app.db.bak_figures_20261006_124936",
+  "updated": [
+   {
+    "id": 2413,
+    "nr": 7,
+    "image": "q_4d40e83bcc.png"
+   },
+   {
+    "id": 2778,
+    "nr": 22,
+    "image": "q_3b852de764.png"
+   },
+   {
+    "id": 2862,
+    "nr": 12,
+    "image": "q_26682489b9.png"
+   }
+  ],
+  "inserted": [
+   {
+    "id": 2998,
+    "nr": 11,
+    "kat": "Angielski",
+    "image": "q_7f4603868f.png"
+   },
+   {
+    "id": 2999,
+    "nr": 12,
+    "kat": "Angielski",
+    "image": "q_ec789409da.png"
+   },
+   {
+    "id": 3000,
+    "nr": 14,
+    "kat": "Angielski",
+    "image": "q_16c4e8f581.png"
+   },
+   {
+    "id": 3001,
+    "nr": 22,
+    "kat": "Angielski",
+    "image": "q_fcb6a31329.png"
+   },
+   {
+    "id": 3002,
+    "nr": 27,
+    "kat": "Angielski",
+    "image": "q_e504bb3125.png"
+   },
+   {
+    "id": 3003,
+    "nr": 6,
+    "kat": "Angielski",
+    "image": "q_3d6d26825a.png"
+   },
+   {
+    "id": 3004,
+    "nr": 7,
+    "kat": "Angielski",
+    "image": "q_89a70663f8.png"
+   },
+   {
+    "id": 3005,
+    "nr": 18,
+    "kat": "Angielski",
+    "image": "q_710d7b8c9d.png"
+   },
+   {
+    "id": 3006,
+    "nr": 19,
+    "kat": "Angielski",
+    "image": "q_1ff95d24e2.png"
+   },
+   {
+    "id": 3007,
+    "nr": 23,
+    "kat": "Angielski",
+    "image": "q_b41734dd39.png"
+   },
+   {
+    "id": 3008,
+    "nr": 26,
+    "kat": "Angielski",
+    "image": "q_ebc28f6bb0.png"
+   },
+   {
+    "id": 3009,
+    "nr": 27,
+    "kat": "Angielski",
+    "image": "q_e260598470.png"
+   },
+   {
+    "id": 3010,
+    "nr": 28,
+    "kat": "Angielski",
+    "image": "q_65286c8e82.png"
+   },
+   {
+    "id": 3011,
+    "nr": 29,
+    "kat": "Angielski",
+    "image": "q_cd6c277740.png"
+   },
+   {
+    "id": 3012,
+    "nr": 30,
+    "kat": "Angielski",
+    "image": "q_9f1a094dd5.png"
+   },
+   {
+    "id": 3013,
+    "nr": 32,
+    "kat": "Angielski",
+    "image": "q_669112d4f1.png"
+   },
+   {
+    "id": 3014,
+    "nr": 33,
+    "kat": "Angielski",
+    "image": "q_669112d4f1.png"
+   },
+   {
+    "id": 3015,
+    "nr": 34,
+    "kat": "Angielski",
+    "image": "q_82c6aee27e.png"
+   },
+   {
+    "id": 3016,
+    "nr": 37,
+    "kat": "Angielski",
+    "image": "q_5c664af675.png"
+   },
+   {
+    "id": 3017,
+    "nr": 38,
+    "kat": "Angielski",
+    "image": "q_51efcf7a2d.png"
+   },
+   {
+    "id": 3018,
+    "nr": 1,
+    "kat": "Angielski",
+    "image": "q_a455f93f74.png"
+   },
+   {
+    "id": 3019,
+    "nr": 2,
+    "kat": "Angielski",
+    "image": "q_c5c46d8ef0.png"
+   },
+   {
+    "id": 3020,
+    "nr": 3,
+    "kat": "Angielski",
+    "image": "q_97fed7fc55.png"
+   },
+   {
+    "id": 3021,
+    "nr": 4,
+    "kat": "Angielski",
+    "image": "q_6fd77758c9.png"
+   },
+   {
+    "id": 3022,
+    "nr": 5,
+    "kat": "Angielski",
+    "image": "q_6fd77758c9.png"
+   },
+   {
+    "id": 3023,
+    "nr": 6,
+    "kat": "Angielski",
+    "image": "q_f4c14f4ffb.png"
+   },
+   {
+    "id": 3024,
+    "nr": 7,
+    "kat": "Angielski",
+    "image": "q_af2c5534c5.png"
+   },
+   {
+    "id": 3025,
+    "nr": 8,
+    "kat": "Angielski",
+    "image": "q_a5bc612e5f.png"
+   },
+   {
+    "id": 3026,
+    "nr": 24,
+    "kat": "Angielski",
+    "image": "q_ca6284ff12.png"
+   },
+   {
+    "id": 3027,
+    "nr": 11,
+    "kat": "Dział pokładowy",
+    "image": "q_6ef9acdeb9.png"
+   },
+   {
+    "id": 3028,
+    "nr": 12,
+    "kat": "Dział pokładowy",
+    "image": "q_26b6583757.png"
+   },
+   {
+    "id": 3029,
+    "nr": 14,
+    "kat": "Dział pokładowy",
+    "image": "q_ec79d9619c.png"
+   },
+   {
+    "id": 3030,
+    "nr": 22,
+    "kat": "Dział pokładowy",
+    "image": "q_fcb6a31329.png"
+   },
+   {
+    "id": 3031,
+    "nr": 27,
+    "kat": "Dział pokładowy",
+    "image": "q_e504bb3125.png"
+   },
+   {
+    "id": 3032,
+    "nr": 6,
+    "kat": "Dział pokładowy",
+    "image": "q_9728e002ad.png"
+   },
+   {
+    "id": 3033,
+    "nr": 18,
+    "kat": "Dział pokładowy",
+    "image": "q_710d7b8c9d.png"
+   },
+   {
+    "id": 3034,
+    "nr": 19,
+    "kat": "Dział pokładowy",
+    "image": "q_8adacbc9b2.png"
+   },
+   {
+    "id": 3035,
+    "nr": 23,
+    "kat": "Dział pokładowy",
+    "image": "q_22453327d3.png"
+   },
+   {
+    "id": 3036,
+    "nr": 26,
+    "kat": "Dział pokładowy",
+    "image": "q_471439331b.png"
+   },
+   {
+    "id": 3037,
+    "nr": 27,
+    "kat": "Dział pokładowy",
+    "image": "q_5bd41a4fab.png"
+   },
+   {
+    "id": 3038,
+    "nr": 28,
+    "kat": "Dział pokładowy",
+    "image": "q_d4b02527fa.png"
+   },
+   {
+    "id": 3039,
+    "nr": 29,
+    "kat": "Dział pokładowy",
+    "image": "q_8dc3b075cc.png"
+   },
+   {
+    "id": 3040,
+    "nr": 30,
+    "kat": "Dział pokładowy",
+    "image": "q_ce2f0b2bbc.png"
+   },
+   {
+    "id": 3041,
+    "nr": 32,
+    "kat": "Dział pokładowy",
+    "image": "q_2fc82ad4fc.png"
+   },
+   {
+    "id": 3042,
+    "nr": 33,
+    "kat": "Dział pokładowy",
+    "image": "q_a8d948e995.png"
+   },
+   {
+    "id": 3043,
+    "nr": 34,
+    "kat": "Dział pokładowy",
+    "image": "q_aea987048b.png"
+   },
+   {
+    "id": 3044,
+    "nr": 37,
+    "kat": "Dział pokładowy",
+    "image": "q_fb566b0669.png"
+   },
+   {
+    "id": 3045,
+    "nr": 38,
+    "kat": "Dział pokładowy",
+    "image": "q_4e7ccf7bf3.png"
+   },
+   {
+    "id": 3046,
+    "nr": 1,
+    "kat": "Dział pokładowy",
+    "image": "q_103c27dbc6.png"
+   },
+   {
+    "id": 3047,
+    "nr": 2,
+    "kat": "Dział pokładowy",
+    "image": "q_3c35d22f61.png"
+   },
+   {
+    "id": 3048,
+    "nr": 3,
+    "kat": "Dział pokładowy",
+    "image": "q_f978627959.png"
+   },
+   {
+    "id": 3049,
+    "nr": 4,
+    "kat": "Dział pokładowy",
+    "image": "q_8d19c78fe0.png"
+   },
+   {
+    "id": 3050,
+    "nr": 5,
+    "kat": "Dział pokładowy",
+    "image": "q_8d19c78fe0.png"
+   },
+   {
+    "id": 3051,
+    "nr": 6,
+    "kat": "Dział pokładowy",
+    "image": "q_c23321e84a.png"
+   },
+   {
+    "id": 3052,
+    "nr": 7,
+    "kat": "Dział pokładowy",
+    "image": "q_8bb906efa3.png"
+   },
+   {
+    "id": 3053,
+    "nr": 8,
+    "kat": "Dział pokładowy",
+    "image": "q_8ea1c052da.png"
+   },
+   {
+    "id": 3054,
+    "nr": 24,
+    "kat": "Dział pokładowy",
+    "image": "q_d2bb8176c6.png"
+   },
+   {
+    "id": 3055,
+    "nr": 18,
+    "kat": "Dział pokładowy",
+    "image": "q_a4af6b7b79.png"
+   },
+   {
+    "id": 3056,
+    "nr": 20,
+    "kat": "Dział pokładowy",
+    "image": "q_6784e06fdf.png"
+   },
+   {
+    "id": 3057,
+    "nr": 23,
+    "kat": "Dział pokładowy",
+    "image": "q_60660bb095.png"
+   },
+   {
+    "id": 3058,
+    "nr": 2,
+    "kat": "Dział pokładowy",
+    "image": "q_bcfeef3251.png"
+   },
+   {
+    "id": 3059,
+    "nr": 11,
+    "kat": "Dział pokładowy",
+    "image": "q_b0416636cd.png"
+   },
+   {
+    "id": 3060,
+    "nr": 12,
+    "kat": "Dział pokładowy",
+    "image": "q_b0416636cd.png"
+   },
+   {
+    "id": 3061,
+    "nr": 15,
+    "kat": "Dział pokładowy",
+    "image": "q_96ca661c74.png"
+   },
+   {
+    "id": 3062,
+    "nr": 27,
+    "kat": "Dział pokładowy",
+    "image": "q_692df33381.png"
+   },
+   {
+    "id": 3063,
+    "nr": 30,
+    "kat": "Dział pokładowy",
+    "image": "q_cd497f4714.png"
+   }
+  ]
+ },
+ "seed": {
+  "backup": "C:\\Users\\Lukasz\\Desktop\\Dev\\Master Exam Mnemonic 2.0\\app\\assets\\db\\memonic_app_seed.db.bak_figures_20261006_124936",
+  "updated": [
+   {
+    "id": 2413,
+    "nr": 7,
+    "image": "q_4d40e83bcc.png"
+   },
+   {
+    "id": 2778,
+    "nr": 22,
+    "image": "q_3b852de764.png"
+   },
+   {
+    "id": 2862,
+    "nr": 12,
+    "image": "q_26682489b9.png"
+   }
+  ],
+  "inserted": [
+   {
+    "id": 2998,
+    "nr": 11,
+    "kat": "Angielski",
+    "image": "q_7f4603868f.png"
+   },
+   {
+    "id": 2999,
+    "nr": 12,
+    "kat": "Angielski",
+    "image": "q_ec789409da.png"
+   },
+   {
+    "id": 3000,
+    "nr": 14,
+    "kat": "Angielski",
+    "image": "q_16c4e8f581.png"
+   },
+   {
+    "id": 3001,
+    "nr": 22,
+    "kat": "Angielski",
+    "image": "q_fcb6a31329.png"
+   },
+   {
+    "id": 3002,
+    "nr": 27,
+    "kat": "Angielski",
+    "image": "q_e504bb3125.png"
+   },
+   {
+    "id": 3003,
+    "nr": 6,
+    "kat": "Angielski",
+    "image": "q_3d6d26825a.png"
+   },
+   {
+    "id": 3004,
+    "nr": 7,
+    "kat": "Angielski",
+    "image": "q_89a70663f8.png"
+   },
+   {
+    "id": 3005,
+    "nr": 18,
+    "kat": "Angielski",
+    "image": "q_710d7b8c9d.png"
+   },
+   {
+    "id": 3006,
+    "nr": 19,
+    "kat": "Angielski",
+    "image": "q_1ff95d24e2.png"
+   },
+   {
+    "id": 3007,
+    "nr": 23,
+    "kat": "Angielski",
+    "image": "q_b41734dd39.png"
+   },
+   {
+    "id": 3008,
+    "nr": 26,
+    "kat": "Angielski",
+    "image": "q_ebc28f6bb0.png"
+   },
+   {
+    "id": 3009,
+    "nr": 27,
+    "kat": "Angielski",
+    "image": "q_e260598470.png"
+   },
+   {
+    "id": 3010,
+    "nr": 28,
+    "kat": "Angielski",
+    "image": "q_65286c8e82.png"
+   },
+   {
+    "id": 3011,
+    "nr": 29,
+    "kat": "Angielski",
+    "image": "q_cd6c277740.png"
+   },
+   {
+    "id": 3012,
+    "nr": 30,
+    "kat": "Angielski",
+    "image": "q_9f1a094dd5.png"
+   },
+   {
+    "id": 3013,
+    "nr": 32,
+    "kat": "Angielski",
+    "image": "q_669112d4f1.png"
+   },
+   {
+    "id": 3014,
+    "nr": 33,
+    "kat": "Angielski",
+    "image": "q_669112d4f1.png"
+   },
+   {
+    "id": 3015,
+    "nr": 34,
+    "kat": "Angielski",
+    "image": "q_82c6aee27e.png"
+   },
+   {
+    "id": 3016,
+    "nr": 37,
+    "kat": "Angielski",
+    "image": "q_5c664af675.png"
+   },
+   {
+    "id": 3017,
+    "nr": 38,
+    "kat": "Angielski",
+    "image": "q_51efcf7a2d.png"
+   },
+   {
+    "id": 3018,
+    "nr": 1,
+    "kat": "Angielski",
+    "image": "q_a455f93f74.png"
+   },
+   {
+    "id": 3019,
+    "nr": 2,
+    "kat": "Angielski",
+    "image": "q_c5c46d8ef0.png"
+   },
+   {
+    "id": 3020,
+    "nr": 3,
+    "kat": "Angielski",
+    "image": "q_97fed7fc55.png"
+   },
+   {
+    "id": 3021,
+    "nr": 4,
+    "kat": "Angielski",
+    "image": "q_6fd77758c9.png"
+   },
+   {
+    "id": 3022,
+    "nr": 5,
+    "kat": "Angielski",
+    "image": "q_6fd77758c9.png"
+   },
+   {
+    "id": 3023,
+    "nr": 6,
+    "kat": "Angielski",
+    "image": "q_f4c14f4ffb.png"
+   },
+   {
+    "id": 3024,
+    "nr": 7,
+    "kat": "Angielski",
+    "image": "q_af2c5534c5.png"
+   },
+   {
+    "id": 3025,
+    "nr": 8,
+    "kat": "Angielski",
+    "image": "q_a5bc612e5f.png"
+   },
+   {
+    "id": 3026,
+    "nr": 24,
+    "kat": "Angielski",
+    "image": "q_ca6284ff12.png"
+   },
+   {
+    "id": 3027,
+    "nr": 11,
+    "kat": "Dział pokładowy",
+    "image": "q_6ef9acdeb9.png"
+   },
+   {
+    "id": 3028,
+    "nr": 12,
+    "kat": "Dział pokładowy",
+    "image": "q_26b6583757.png"
+   },
+   {
+    "id": 3029,
+    "nr": 14,
+    "kat": "Dział pokładowy",
+    "image": "q_ec79d9619c.png"
+   },
+   {
+    "id": 3030,
+    "nr": 22,
+    "kat": "Dział pokładowy",
+    "image": "q_fcb6a31329.png"
+   },
+   {
+    "id": 3031,
+    "nr": 27,
+    "kat": "Dział pokładowy",
+    "image": "q_e504bb3125.png"
+   },
+   {
+    "id": 3032,
+    "nr": 6,
+    "kat": "Dział pokładowy",
+    "image": "q_9728e002ad.png"
+   },
+   {
+    "id": 3033,
+    "nr": 18,
+    "kat": "Dział pokładowy",
+    "image": "q_710d7b8c9d.png"
+   },
+   {
+    "id": 3034,
+    "nr": 19,
+    "kat": "Dział pokładowy",
+    "image": "q_8adacbc9b2.png"
+   },
+   {
+    "id": 3035,
+    "nr": 23,
+    "kat": "Dział pokładowy",
+    "image": "q_22453327d3.png"
+   },
+   {
+    "id": 3036,
+    "nr": 26,
+    "kat": "Dział pokładowy",
+    "image": "q_471439331b.png"
+   },
+   {
+    "id": 3037,
+    "nr": 27,
+    "kat": "Dział pokładowy",
+    "image": "q_5bd41a4fab.png"
+   },
+   {
+    "id": 3038,
+    "nr": 28,
+    "kat": "Dział pokładowy",
+    "image": "q_d4b02527fa.png"
+   },
+   {
+    "id": 3039,
+    "nr": 29,
+    "kat": "Dział pokładowy",
+    "image": "q_8dc3b075cc.png"
+   },
+   {
+    "id": 3040,
+    "nr": 30,
+    "kat": "Dział pokładowy",
+    "image": "q_ce2f0b2bbc.png"
+   },
+   {
+    "id": 3041,
+    "nr": 32,
+    "kat": "Dział pokładowy",
+    "image": "q_2fc82ad4fc.png"
+   },
+   {
+    "id": 3042,
+    "nr": 33,
+    "kat": "Dział pokładowy",
+    "image": "q_a8d948e995.png"
+   },
+   {
+    "id": 3043,
+    "nr": 34,
+    "kat": "Dział pokładowy",
+    "image": "q_aea987048b.png"
+   },
+   {
+    "id": 3044,
+    "nr": 37,
+    "kat": "Dział pokładowy",
+    "image": "q_fb566b0669.png"
+   },
+   {
+    "id": 3045,
+    "nr": 38,
+    "kat": "Dział pokładowy",
+    "image": "q_4e7ccf7bf3.png"
+   },
+   {
+    "id": 3046,
+    "nr": 1,
+    "kat": "Dział pokładowy",
+    "image": "q_103c27dbc6.png"
+   },
+   {
+    "id": 3047,
+    "nr": 2,
+    "kat": "Dział pokładowy",
+    "image": "q_3c35d22f61.png"
+   },
+   {
+    "id": 3048,
+    "nr": 3,
+    "kat": "Dział pokładowy",
+    "image": "q_f978627959.png"
+   },
+   {
+    "id": 3049,
+    "nr": 4,
+    "kat": "Dział pokładowy",
+    "image": "q_8d19c78fe0.png"
+   },
+   {
+    "id": 3050,
+    "nr": 5,
+    "kat": "Dział pokładowy",
+    "image": "q_8d19c78fe0.png"
+   },
+   {
+    "id": 3051,
+    "nr": 6,
+    "kat": "Dział pokładowy",
+    "image": "q_c23321e84a.png"
+   },
+   {
+    "id": 3052,
+    "nr": 7,
+    "kat": "Dział pokładowy",
+    "image": "q_8bb906efa3.png"
+   },
+   {
+    "id": 3053,
+    "nr": 8,
+    "kat": "Dział pokładowy",
+    "image": "q_8ea1c052da.png"
+   },
+   {
+    "id": 3054,
+    "nr": 24,
+    "kat": "Dział pokładowy",
+    "image": "q_d2bb8176c6.png"
+   },
+   {
+    "id": 3055,
+    "nr": 18,
+    "kat": "Dział pokładowy",
+    "image": "q_a4af6b7b79.png"
+   },
+   {
+    "id": 3056,
+    "nr": 20,
+    "kat": "Dział pokładowy",
+    "image": "q_6784e06fdf.png"
+   },
+   {
+    "id": 3057,
+    "nr": 23,
+    "kat": "Dział pokładowy",
+    "image": "q_60660bb095.png"
+   },
+   {
+    "id": 3058,
+    "nr": 2,
+    "kat": "Dział pokładowy",
+    "image": "q_bcfeef3251.png"
+   },
+   {
+    "id": 3059,
+    "nr": 11,
+    "kat": "Dział pokładowy",
+    "image": "q_b0416636cd.png"
+   },
+   {
+    "id": 3060,
+    "nr": 12,
+    "kat": "Dział pokładowy",
+    "image": "q_b0416636cd.png"
+   },
+   {
+    "id": 3061,
+    "nr": 15,
+    "kat": "Dział pokładowy",
+    "image": "q_96ca661c74.png"
+   },
+   {
+    "id": 3062,
+    "nr": 27,
+    "kat": "Dział pokładowy",
+    "image": "q_692df33381.png"
+   },
+   {
+    "id": 3063,
+    "nr": 30,
+    "kat": "Dział pokładowy",
+    "image": "q_cd497f4714.png"
+   }
+  ]
+ }
+}

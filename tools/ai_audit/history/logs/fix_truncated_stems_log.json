@@ -1,0 +1,204 @@
+{
+ "app": {
+  "backup": "C:\\Users\\Lukasz\\Documents\\memonic_app.db.bak_stems_20261008_104234",
+  "changes": [
+   {
+    "id": 1622,
+    "old": "statku jako:",
+    "new": "Dla akwenu otwartego Rezolucja IMO A.529, Standardy dokładności dla nawigacji, określa wymaganą dokładność bieżącej pozycji statku jako:"
+   },
+   {
+    "id": 1626,
+    "old": "znaleźć w publikacji:",
+    "new": "Informacje o systemach rozgraniczenia ruchu, trasach głębokowodnych, obszarach których należy unikać (area to be avoided), można znaleźć w publikacji:"
+   },
+   {
+    "id": 1631,
+    "old": "geograficznych nie można podjąć żeglugi po ortodromie, należy:",
+    "new": "Jeżeli z powodu ograniczeń pogodowych lub występowania niebezpieczeństw nawigacyjnych na wyższych szerokościach geograficznych nie można podjąć żeglugi po ortodromie, należy:"
+   },
+   {
+    "id": 1655,
+    "old": "z mielizny przy następnym pływie wystąpi w przypadku, gdy statek wszedł na mieliznę podczas:",
+    "new": "Statek osiadł na mieliźnie, rodzaj dna pozwala na próbę samodzielnego uwolnienia się z mielizny. Największa szansa na uwolnienie się z mielizny przy następnym pływie wystąpi w przypadku, gdy statek wszedł na mieliznę podczas:"
+   },
+   {
+    "id": 1693,
+    "old": "kursowych występujących:",
+    "new": "Przy określaniu namiaru w czasie przechyłów bocznych statku występuje błąd paralaksy. Osiąga on największe wartości dla kątów kursowych występujących:"
+   },
+   {
+    "id": 1717,
+    "old": "pierwszeństwo drogi ma statek, który:",
+    "new": "Jeżeli dwa statki żaglowe widzące się wzajemnie i mające wiatr z różnych burt spotykają się tak, że istnieje ryzyko zderzenia, to pierwszeństwo drogi ma statek, który:"
+   },
+   {
+    "id": 1742,
+    "old": "nie może przekraczać:",
+    "new": "Zgodnie z wymaganiami Konwencji STCW dopuszczalny, ustalony przez Administrację limit stężenia alkoholu we krwi kapitana, oficera oraz innego członka załogi podczas pełnienia obowiązków z zakresu bezpieczeństwa, ochrony żeglugi i ochrony środowiska morskiego nie może przekraczać:"
+   },
+   {
+    "id": 1664,
+    "old": "„Master’s standing orders”? W jakiej publikacji podane są wskazówki dotyczące treści",
+    "new": "W jakiej publikacji podane są wskazówki dotyczące treści „Master’s standing orders”?"
+   },
+   {
+    "id": 1705,
+    "old": "Auto Range: Włączenie opcji",
+    "new": "Włączenie opcji Auto Range :"
+   },
+   {
+    "id": 1768,
+    "old": "(Designated Person) Osoba wyznaczona wg wymagań ISM jest osobą wybraną:",
+    "new": "Osoba wyznaczona (Designated Person) wg wymagań ISM jest osobą wybraną:"
+   },
+   {
+    "id": 1802,
+    "old": "Aktualna kopia tomu IIIMiędzynarodowego lotniczego i morskiegoporadnika poszukiwaniai ratownictwa (IAMSAR) powinna znajdować się na:",
+    "new": "Aktualna kopia tomu III Międzynarodowego lotniczego i morskiego poradnika poszukiwania i ratownictwa (IAMSAR) powinna znajdować się na:"
+   },
+   {
+    "id": 2078,
+    "old": "d Która formuła określa, że NOR może być złożony niezależnie, czy statek jest przy nabrzeżu czy nie, czy jest w porcie czy nie, czy posiada wolność ruchów czy nie lub czy został odprawiony celnie czy też nie:",
+    "new": "Która formuła określa, że NOR może być złożony niezależnie, czy statek jest przy nabrzeżu czy nie, czy jest w porcie czy nie, czy posiada wolność ruchów czy nie lub czy został odprawiony celnie czy też nie:"
+   },
+   {
+    "id": 733,
+    "old": "cargo from no.4 tank to no.6 tank and report.",
+    "new": "---------- cargo from no.4 tank to no.6 tank and report."
+   }
+  ],
+  "deleted": [
+   {
+    "id": 1794,
+    "kategoria": "Kapitan żeglugi wielkiej",
+    "podkategoria": null,
+    "poziom": null,
+    "tematyka": "bezpieczeństwo statku",
+    "nr_pytania": 1,
+    "typ_pytania": "testowe",
+    "pytanie": "się na:",
+    "odp_a": "wszystkich statkach o ile administracja nie ograniczy tego wymogu dla określonych kategorii statków",
+    "odp_b": "wszystkich statkach o pojemności brutto 150 i powyżej",
+    "odp_c": "statkach o pojemności brutto 500 i powyżej w żegludze międzynarodowej",
+    "odp_d": null,
+    "poprawna_odpowiedz": "A",
+    "poprawna_odpowiedz_tekst": "wszystkich statkach o ile administracja nie ograniczy tego wymogu dla określonych kategorii statków",
+    "zrodlo_pliku": "C:\\Users\\lukas\\Desktop\\Dev\\Master Exam Mnemonic\\Question Database\\Kapitan_żeglugi_wielkiej_pytania\\Kapitan żeglugi wielkiej pytania\\kapitan żeglugi wielkiej-02-02-bezpieczeństwo statku-2025.pdf",
+    "review_status": "ok",
+    "review_notes": null,
+    "study_hidden": 0,
+    "ai_verified": "manual:pdf_urzad:2026-10-05",
+    "image_path": null
+   }
+  ],
+  "unhidden": [
+   1622,
+   1626,
+   1631,
+   1693,
+   1742
+  ]
+ },
+ "seed": {
+  "backup": "C:\\Users\\Lukasz\\Desktop\\Dev\\Master Exam Mnemonic 2.0\\data\\memonic_app_seed.db.bak_stems_20261008_104234",
+  "changes": [
+   {
+    "id": 1622,
+    "old": "statku jako:",
+    "new": "Dla akwenu otwartego Rezolucja IMO A.529, Standardy dokładności dla nawigacji, określa wymaganą dokładność bieżącej pozycji statku jako:"
+   },
+   {
+    "id": 1626,
+    "old": "znaleźć w publikacji:",
+    "new": "Informacje o systemach rozgraniczenia ruchu, trasach głębokowodnych, obszarach których należy unikać (area to be avoided), można znaleźć w publikacji:"
+   },
+   {
+    "id": 1631,
+    "old": "geograficznych nie można podjąć żeglugi po ortodromie, należy:",
+    "new": "Jeżeli z powodu ograniczeń pogodowych lub występowania niebezpieczeństw nawigacyjnych na wyższych szerokościach geograficznych nie można podjąć żeglugi po ortodromie, należy:"
+   },
+   {
+    "id": 1655,
+    "old": "z mielizny przy następnym pływie wystąpi w przypadku, gdy statek wszedł na mieliznę podczas:",
+    "new": "Statek osiadł na mieliźnie, rodzaj dna pozwala na próbę samodzielnego uwolnienia się z mielizny. Największa szansa na uwolnienie się z mielizny przy następnym pływie wystąpi w przypadku, gdy statek wszedł na mieliznę podczas:"
+   },
+   {
+    "id": 1693,
+    "old": "kursowych występujących:",
+    "new": "Przy określaniu namiaru w czasie przechyłów bocznych statku występuje błąd paralaksy. Osiąga on największe wartości dla kątów kursowych występujących:"
+   },
+   {
+    "id": 1717,
+    "old": "pierwszeństwo drogi ma statek, który:",
+    "new": "Jeżeli dwa statki żaglowe widzące się wzajemnie i mające wiatr z różnych burt spotykają się tak, że istnieje ryzyko zderzenia, to pierwszeństwo drogi ma statek, który:"
+   },
+   {
+    "id": 1742,
+    "old": "nie może przekraczać:",
+    "new": "Zgodnie z wymaganiami Konwencji STCW dopuszczalny, ustalony przez Administrację limit stężenia alkoholu we krwi kapitana, oficera oraz innego członka załogi podczas pełnienia obowiązków z zakresu bezpieczeństwa, ochrony żeglugi i ochrony środowiska morskiego nie może przekraczać:"
+   },
+   {
+    "id": 1664,
+    "old": "„Master’s standing orders”? W jakiej publikacji podane są wskazówki dotyczące treści",
+    "new": "W jakiej publikacji podane są wskazówki dotyczące treści „Master’s standing orders”?"
+   },
+   {
+    "id": 1705,
+    "old": "Auto Range: Włączenie opcji",
+    "new": "Włączenie opcji Auto Range :"
+   },
+   {
+    "id": 1768,
+    "old": "(Designated Person) Osoba wyznaczona wg wymagań ISM jest osobą wybraną:",
+    "new": "Osoba wyznaczona (Designated Person) wg wymagań ISM jest osobą wybraną:"
+   },
+   {
+    "id": 1802,
+    "old": "Aktualna kopia tomu IIIMiędzynarodowego lotniczego i morskiegoporadnika poszukiwaniai ratownictwa (IAMSAR) powinna znajdować się na:",
+    "new": "Aktualna kopia tomu III Międzynarodowego lotniczego i morskiego poradnika poszukiwania i ratownictwa (IAMSAR) powinna znajdować się na:"
+   },
+   {
+    "id": 2078,
+    "old": "d Która formuła określa, że NOR może być złożony niezależnie, czy statek jest przy nabrzeżu czy nie, czy jest w porcie czy nie, czy posiada wolność ruchów czy nie lub czy został odprawiony celnie czy też nie:",
+    "new": "Która formuła określa, że NOR może być złożony niezależnie, czy statek jest przy nabrzeżu czy nie, czy jest w porcie czy nie, czy posiada wolność ruchów czy nie lub czy został odprawiony celnie czy też nie:"
+   },
+   {
+    "id": 733,
+    "old": "cargo from no.4 tank to no.6 tank and report.",
+    "new": "---------- cargo from no.4 tank to no.6 tank and report."
+   }
+  ],
+  "deleted": [
+   {
+    "id": 1794,
+    "kategoria": "Kapitan żeglugi wielkiej",
+    "podkategoria": null,
+    "poziom": null,
+    "tematyka": "bezpieczeństwo statku",
+    "nr_pytania": 1,
+    "typ_pytania": "testowe",
+    "pytanie": "się na:",
+    "odp_a": "wszystkich statkach o ile administracja nie ograniczy tego wymogu dla określonych kategorii statków",
+    "odp_b": "wszystkich statkach o pojemności brutto 150 i powyżej",
+    "odp_c": "statkach o pojemności brutto 500 i powyżej w żegludze międzynarodowej",
+    "odp_d": null,
+    "poprawna_odpowiedz": "A",
+    "poprawna_odpowiedz_tekst": "wszystkich statkach o ile administracja nie ograniczy tego wymogu dla określonych kategorii statków",
+    "zrodlo_pliku": "C:\\Users\\lukas\\Desktop\\Dev\\Master Exam Mnemonic\\Question Database\\Kapitan_żeglugi_wielkiej_pytania\\Kapitan żeglugi wielkiej pytania\\kapitan żeglugi wielkiej-02-02-bezpieczeństwo statku-2025.pdf",
+    "review_status": "ok",
+    "review_notes": null,
+    "study_hidden": 0,
+    "ai_verified": "manual:pdf_urzad:2026-10-05",
+    "image_path": null
+   }
+  ],
+  "unhidden": [
+   1622,
+   1626,
+   1631,
+   1693,
+   1742
+  ]
+ }
+}

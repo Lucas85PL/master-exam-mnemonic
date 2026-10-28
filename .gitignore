@@ -1,0 +1,43 @@
+# sekrety i cache
+.env
+.cache/
+.tools/
+# build
+**/build/
+**/.dart_tool/
+**/.gradle/
+dist/*.apk
+# kopie i smieci
+*.bak*
+__pycache__/
+*.pyc
+*.log
+tools/ai_audit/runs/cache_*
+tools/**/*.jsonl
+
+# bazy danych i historia nauki (kopie zapasowe, snapshoty, seed z postepem)
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.sqlite
+/data/
+# duze pliki: paczki, PDF-y, arkusze, dokumenty
+dist/
+sources/
+*.apk
+*.zip
+*.pdf
+*.docx
+*.xlsx
+*.colpkg
+# pliki generowane przez Flutter/Android
+**/ephemeral/
+**/.flutter-plugins*
+**/local.properties
+**/generated_plugin*
+
+tools/ai_audit/runs/md_vs_db_emb.json
+
+# wyjatek: czysta baza startowa (bez postepu nauki, bez klucza API) wbudowana w aplikacje
+!app/assets/db/memonic_app_seed.db
